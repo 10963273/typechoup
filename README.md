@@ -1,2 +1,2 @@
 # typechoup
-2021年2/28  第一次上传liufw typecho附件。
+這是我的typecho博客 附件庫。
